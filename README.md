@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
 
 <!--
 **joaoribeiro20/joaoribeiro20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
