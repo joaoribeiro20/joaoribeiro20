@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
 
-<img src="/giff/horror-fire.gif">
+  <img src="/giff/horror-fire.gif">
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
