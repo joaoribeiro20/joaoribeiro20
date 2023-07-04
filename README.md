@@ -1,6 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
 
+<img src="/giff/horror-fire.gif">
+
 <div class="tenor-gif-embed" data-postid="16245015" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/horror-fire-technology-computer-dinosaur-gif-16245015">Horror Fire Sticker</a>from <a href="https://tenor.com/search/horror-stickers">Horror Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
 
 - 🔭 Atualmente estou trabalhando em ...
