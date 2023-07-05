@@ -1,4 +1,4 @@
-## 👋 EAI! Galera Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
+## 👋 EAI! Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
 <p align="center">
  “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
  </br>
@@ -6,7 +6,6 @@
    IMMANUEL KANT, filósofo alemão
 </p>
 
-</br>
 </br>
 
 <p align="center">
@@ -49,8 +48,6 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 <div display="inline-block">
  <p align="left">🤿 Graças ao processo seletivo da faculdade Ada em parceria com governo de são paulo estou participando de uma Formação completa para mercado de trabalho: Web Front-End | 324h, creio que assim poderei conhecer novos horizontes. </p>
  <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">📷 ...................................................................................</p>
- <p align="left">☕🎮 ....................................................................................</p>
 <div>
  
  </br>
