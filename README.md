@@ -57,7 +57,7 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 
 <div>
 <a href="https://github.com/joaoribeiro20">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="300px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  
