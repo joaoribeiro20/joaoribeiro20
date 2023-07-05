@@ -25,6 +25,9 @@
 ## João Ribeiro
 Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo 1/10, Adoro estudar e falar sobre Filosofia e café ☕, tenho uma curiosidade extrema sobre o mundo.
 
+<p align="center">
+  <img src="/giff/horror-fire.gif" align="center" >
+</p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <div display="inline-block">
@@ -48,6 +51,9 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
  <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
  <p align="left">📷 </p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="center">
+  <img src="/giff/horror-fire.gif" align="center" >
+</p>
 </div>
 
 <div>
