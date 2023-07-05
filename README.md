@@ -1,9 +1,9 @@
 ## 👋 EAI! Galera Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
 <p align="center">
- “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
+### “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
  </br>
  </br>
-                         IMMANUEL KANT, filósofo alemão (1724-1804) 
+                        ### IMMANUEL KANT, filósofo alemão (1724-1804) 
 </p>
 
 
@@ -23,8 +23,8 @@
 </div>
 
 ## João Ribeiro
-</br>
 Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo 1/10
+
 ## Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
