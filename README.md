@@ -1,4 +1,4 @@
-## 👋 EAI! Galera, fiquem a vontade, esse é meu perfil no GitHub.
+## 👋 EAI! Galera, Fiquem a vontade Aqui irei apresentar um pouco sobre meus projetos e trabalho
 <p align="center">
  “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
  </br>
