@@ -54,24 +54,8 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 <div>
  
  </br>
-
+ 
 <div>
 <a href="https://github.com/joaoribeiro20">
-<img height="180em" width="300px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
- 
-<!--
-**joaoribeiro20/joaoribeiro20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
