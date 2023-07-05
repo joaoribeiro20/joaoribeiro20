@@ -1,9 +1,9 @@
 ## 👋 EAI! Galera Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
 <p align="center">
-### “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
+ “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
  </br>
  </br>
-                        ### IMMANUEL KANT, filósofo alemão (1724-1804) 
+   IMMANUEL KANT, filósofo alemão (1724-1804) 
 </p>
 
 
