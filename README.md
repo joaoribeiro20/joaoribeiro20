@@ -8,7 +8,7 @@
 </div>
 
 
-  <img align="center" src="/giff/horror-fire.gif" >
+  <img src="/giff/horror-fire.gif" width="45" height="150">
 
 - 🔭  ...
 - 🌱  ...
