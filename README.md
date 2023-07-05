@@ -31,8 +31,7 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <div display="inline-block">
-
-  <img src="/giff/1688573474761 (1).png">
+<img width="300px" align="right" src="/giff/1688573474761 (1).png">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="40" height="40"/>
