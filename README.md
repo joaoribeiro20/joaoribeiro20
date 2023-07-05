@@ -1,4 +1,4 @@
-## 👋 EAI! Galera Fiquem a vontade, Aqui irei apresentar um pouco sobre mim e meus projetos
+## 👋 EAI! Galera Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
 <p align="center">
  “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
  </br>
@@ -21,7 +21,8 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-##
+##João Ribeiro
+Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo 1/10
 ## Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
