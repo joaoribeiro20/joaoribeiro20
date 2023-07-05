@@ -54,6 +54,9 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
  <p align="left">📷 </p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 <div>
+
+ </br>
+</br>
 <a href="https://github.com/joaoribeiro20">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoribeiro20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
