@@ -47,7 +47,7 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 </br>
 
 <div display="inline-block">
- <p align="left">🤿 </p>
+ <p align="left">🤿 Passei no precesso seletivo do programa ADA+SP Primeiro Codigo e adora estou  </p>
  <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
  <p align="left">📷 </p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
@@ -55,7 +55,11 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
  
  </br>
  
-<div>
+
+##
+<p align="center">
 <a href="https://github.com/joaoribeiro20">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoribeiro20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
