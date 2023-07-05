@@ -1,5 +1,10 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is João Ribeiro 
+## 👋 EAI! Galera, fiquem a vontade, esse é meu perfil no GitHub.
+<p align="center">
+ ### “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
+                         #IMMANUEL KANT, filósofo alemão (1724-1804) 
+</p>
+
+
 
 
 </br>
