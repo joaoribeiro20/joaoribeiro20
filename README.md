@@ -5,14 +5,8 @@
  </br>
    IMMANUEL KANT, filósofo alemão (1724-1804) 
 </p>
-
-
-
-
 </br>
 </br>
-
-
 <p align="center">
   <img src="/giff/horror-fire.gif" align="center" >
 </p>
@@ -21,14 +15,11 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
 ## João Ribeiro
 Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo 1/10, Adoro estudar e falar sobre Filosofia e café ☕, tenho uma curiosidade extrema sobre as coisas que nos rodeiam.
-
 <p align="center">
   <img src="/giff/coffee.gif" align="center" >
 </p>
-
 ### 🖥️ Tecnologias e Ferramentas: 
 <div display="inline-block">
 <img width="300px" align="right" src="/giff/1688573474761 (1).png">
@@ -44,23 +35,20 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"  width="40" height="40"/>
 </div>
-
 </br>
 </br>
-
 <div display="inline-block">
  <p align="left">🤿 </p>
  <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
  <p align="left">📷 </p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 <div>
-
  </br>
-</br>
+
 <div>
 <a href="https://github.com/joaoribeiro20">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoribeiro20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?joaoribeiro20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
  
