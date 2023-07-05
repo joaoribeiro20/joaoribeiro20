@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##João Ribeiro
+## João Ribeiro
 </br>
 Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo 1/10
 ## Estou aprendendo
