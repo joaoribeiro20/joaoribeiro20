@@ -50,7 +50,7 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 
 <div display="inline-block">
  <p align="left">🤿 Graças ao processo seletivo da faculdade Ada em parceria com governo de são paulo estou participando de uma Formação completa para mercado de trabalho: Web Front-End | 324h, creio que assim poderei conhecer novos horizontes. </p>
- <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
+ <p align="left">📚 Tenho estudado Java, c# e iniciei meus estudos para desenvolver WEB;</p>
 <div>
  
  </br>
