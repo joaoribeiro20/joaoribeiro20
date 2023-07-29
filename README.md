@@ -20,7 +20,7 @@
 
 ## João Ribeiro - software engineer
 
-Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo 1/10, Adoro estudar e falar sobre Filosofia e café ☕, tenho uma curiosidade extrema sobre as coisas que nos rodeiam.
+Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo, Adoro estudar e falar sobre Filosofia (maestria e schopenhauer) e cafés especiais (café de verdade kk) ☕, tenho uma curiosidade extrema sobre as coisas que nos rodeiam.
 <p align="center">
   <img src="/giff/coffee.gif" align="center" >
 </p>
