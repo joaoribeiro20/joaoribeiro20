@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-<a href="https://instagram.com/joaoribeiro20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"  ></a>
+<a href="https://instagram.com/v_ribeiro_v?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"  ></a>
 <a href="https://www.linkedin.com/in/joao-vribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
