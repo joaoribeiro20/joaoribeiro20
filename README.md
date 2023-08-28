@@ -1,4 +1,4 @@
-## 👋 EAI! Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
+## 👋 Olá! Fiquem a vontade, aqui irei apresentar um pouco sobre mim e meus projetos
 <p align="center">
  “Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de suportar.”
  </br>
