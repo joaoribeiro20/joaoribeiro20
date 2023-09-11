@@ -17,8 +17,9 @@
 <a href="https://www.linkedin.com/in/joao-vribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## João Ribeiro - software engineer
+## João Ribeiro - Desenvolvedor de Software
 
+##Sobre Mim
 Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo, Adoro estudar e falar sobre Filosofia (maestria e schopenhauer) e cafés especiais (café de verdade kk) ☕, tenho uma curiosidade extrema sobre as coisas que nos rodeiam.
 
   <img src="/giff/coffee.gif" align="center" >
@@ -31,7 +32,7 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="50" height="50"/>
-<hr>
+<br>
  
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
@@ -39,10 +40,10 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"  width="50" height="50"/>
- <hr>
+ <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
- <hr>
+ <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/>
@@ -53,19 +54,11 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 
 <div display="inline-block">
  <p align="left">🤿 Graças ao processo seletivo da faculdade Ada em parceria com governo de são paulo estou participando de uma Formação completa para mercado de trabalho: Web Front-End | 324h, creio que assim poderei conhecer novos horizontes. </p>
- <p align="left">📚 Tenho estudado Java, c# e iniciei meus estudos para desenvolver WEB;</p>
+ <p align="left">📚 Tenho estudado Java e iniciei meus estudos para desenvolver WEB com TypeScript, HTML5 e CSS;</p>
 <div>
  
  </br>
  </br>
  
 
-##
- </br>
- </br>
-<p display="inline-block">
-<a href="https://github.com/joaoribeiro20">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoribeiro20&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoribeiro20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+
