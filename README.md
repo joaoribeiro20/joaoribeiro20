@@ -23,7 +23,7 @@
 
 
 
-<img align="right" alt="Code Girl image" src/giff/coffee.gi""  width="300px"/>
+<img align="right" alt="Code Girl image" src="/giff/coffee.gi"  width="300px"/>
  
 Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo, Adoro estudar e falar sobre Filosofia (maestria e schopenhauer) e cafés especiais (café de verdade kk) ☕, tenho uma curiosidade extrema sobre as coisas que nos rodeiam.
 
