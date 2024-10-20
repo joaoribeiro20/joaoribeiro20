@@ -55,8 +55,8 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 </br>
 
 <div display="inline-block">
- <p align="left">🤿 ..... </p>
- <p align="left">📚 ...... </p>
+ <p align="left">🤿 As tecnologias com as quais possuo mais familiaridade no momento, além de experiência em projetos profissionais em produção, são: Node.js, TypeScript, React, MySQL, TypeORM e APIs REST </p>
+ <p align="left">📚 Atualmente, venho me dedicando aos estudos nas seguintes tecnologias: Java, Spring Boot, Microserviços, Angular, Docker e AWS </p>
 <div>
  
  </br>
