@@ -57,7 +57,7 @@ Atualmente, tenho experiência como desenvolvedor full-stack, atuando com as seg
 
 <div display="inline-block">
  <p align="left">🤿 As tecnologias com as quais possuo mais familiaridade no momento, além de experiência em projetos profissionais em produção, são: Node.js, TypeScript, React, React Native, MySQL, TypeORM e APIs REST, Jira, Git e Bitbucket </p>
- <p align="left">📚 Atualmente, venho me dedicando aos estudos nas seguintes tecnologias: Java, Spring Boot, Microserviços, Angular, React Native, Docker e AWS </p>
+ <p align="left">📚 Atualmente, venho me dedicando aos estudos nas seguintes tecnologias: Java, Spring Boot, Microsserviços, Angular, React Native, Docker e AWS </p>
 <div>
  
  </br>
