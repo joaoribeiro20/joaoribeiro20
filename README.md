@@ -24,8 +24,9 @@
 
 <img align="right" alt="Code Girl image" src="/giff/coffee.gif"  width="300px"/>
  
-Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mundo profissinal da programação. Estou cursando Engenharia de Computação na UNIVESP - universidade Virtual do Estado De São Paulo, Adoro estudar e falar sobre Filosofia (maestria e schopenhauer) e cafés especiais (café de verdade kk) ☕, tenho uma curiosidade extrema sobre as coisas que nos rodeiam.
+Tenho 22 anos, moro na Zona Sul de São Paulo e busco uma oportunidade onde possa evoluir e aperfeiçoar meus conhecimentos profissionais e técnicos. Estou cursando Engenharia de Computação na UNIVESP - Universidade Virtual do Estado de São Paulo. Adoro estudar e falar sobre filosofia e também sobre cafés especiais (café de verdade, haha ☕). Me considero uma pessoa curiosa, sempre buscando compreender melhor as coisas que nos rodeiam.
 
+Atualmente, tenho experiência como desenvolvedor full-stack, atuando com as seguintes tecnologias: Node.js, TypeScript, React, React Native, MySQL, TypeORM e APIs REST, Jira, Git e Bitbucket. Minhas principais atividades incluíram: implementação de funcionalidades em APIs, refatoração e testes de sistemas, desenvolvimento e aprimoramento de telas para a web, e realização de integrações/comunicações entre sistemas por meio de APIs internas.
   
 
 
@@ -55,8 +56,8 @@ Tenho 21 anos, Moro em São paulo-ZS e busco uma oportunidade de mergulhar no mu
 </br>
 
 <div display="inline-block">
- <p align="left">🤿 As tecnologias com as quais possuo mais familiaridade no momento, além de experiência em projetos profissionais em produção, são: Node.js, TypeScript, React, MySQL, TypeORM e APIs REST </p>
- <p align="left">📚 Atualmente, venho me dedicando aos estudos nas seguintes tecnologias: Java, Spring Boot, Microserviços, Angular, Docker e AWS </p>
+ <p align="left">🤿 As tecnologias com as quais possuo mais familiaridade no momento, além de experiência em projetos profissionais em produção, são: Node.js, TypeScript, React, React Native, MySQL, TypeORM e APIs REST, Jira, Git e Bitbucket </p>
+ <p align="left">📚 Atualmente, venho me dedicando aos estudos nas seguintes tecnologias: Java, Spring Boot, Microserviços, Angular, React Native, Docker e AWS </p>
 <div>
  
  </br>
